@@ -16,5 +16,5 @@ while True:
     if eventos == sg.WINDOW_CLOSED:
         break
     if eventos == 'Entrar':
-        if valores['usuario'] == 'gabi' and valores['senha'] == '2510':
+        if valores['usuario'] == 'gabi' and valores['senha'] == '1234':
             print('Bem-vindo ao programa!')
